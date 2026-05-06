@@ -1,0 +1,64 @@
+body {
+    margin: 0;
+    font-family: 'Comic Sans MS', cursive;
+    background-color: #ffd6e7;
+    color: #5a3e4d;
+}
+
+/* HEADER */
+header {
+    text-align: center;
+    padding: 25px;
+    background-color: #ffc1da;
+}
+
+/* NAVBAR */
+nav {
+    display: flex;
+    justify-content: center;
+    gap: 15px;
+    background-color: #ffb6d5;
+    padding: 10px;
+    position: sticky;
+    top: 0;
+}
+
+nav a {
+    text-decoration: none;
+    color: white;
+    background-color: #ff69b4;
+    padding: 8px 15px;
+    border-radius: 15px;
+    transition: 0.3s;
+}
+
+nav a:hover {
+    background-color: #ff1493;
+}
+
+/* CONTENIDO */
+main {
+    display: grid;
+    grid-template-columns: 1fr;
+    padding: 20px;
+}
+
+/* TARJETAS */
+.card {
+    background-color: #fff0f6;
+    margin-bottom: 20px;
+    padding: 20px;
+    border-radius: 20px;
+    box-shadow: 0 5px 10px rgba(0,0,0,0.1);
+}
+
+.card h2 {
+    color: #ff69b4;
+}
+
+/* FOOTER */
+footer {
+    text-align: center;
+    padding: 10px;
+    background-color: #ffc1da;
+}
