@@ -1,6 +1,5 @@
-# 💫 About Me:
-Una estudiante con interés en la tecnología..ೃ࿐<br> Me gusta escuchar música ૮₍ ´ ꒳ `₎ა<br>Dibujar, pintar  ݁ ˖Ი𐑼⋆<br>y personalizar todo  𐔌՞. .՞𐦯<br>       -ˋˏ ༻❁༺ ˎˊ-
-
+#  About Page:
+<br> Esta página presenta la información del Modulo 3.2: Mantenimiento y aseguramiento de sistemas. <br>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/gabdiee?igsh=MW9lYWJzbjU3amkwdA==) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/https://pin.it/3M2n0goTc) 
